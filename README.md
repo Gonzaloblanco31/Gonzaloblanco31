@@ -1,7 +1,7 @@
 - 👋 Hola, soy @Gonzaloblanco31
 - 👀 Estoy interesado en roblox
-- 🌱 Yo estoy lellendo El diario de Greg
-- 💞️ Estoy colaborando con EpicKidsLab
+- 🌱 Yo estoy leyendo Amanda Black
+- 💞️ Estoy colaborando con EpicGroupLab
 
 <!---
 Gonzaloblanco31/Gonzaloblanco31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
